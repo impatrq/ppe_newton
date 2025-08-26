@@ -13,7 +13,7 @@ Los datos se guardan en una **tarjeta SD** para análisis posterior.
 | MAX6675 (termopar K)          | GP16 (CS), GP17 (MISO), GP18 (SCK)       | Lectura de temperatura por SPI           |
 | ACS712 (sensor de corriente)  | GP26 (ADC0)                              | Medición de corriente en amperios        |
 | DS1302 (RTC)                  | GP16 (RST), GP17 (CLK), GP18 (DAT)       | Reloj en tiempo real para timestamps     |
-| SPI Tarjeta SD                | GPI2(MISO), GP3(MOSI), GP4(SCK), GP7(CS) | Registro de datos en la tarjeta SD       |
+| SPI Tarjeta SD                | GP2(MISO), GP3(MOSI), GP4(SCK), GP7(CS) | Registro de datos en la tarjeta SD       |
 
 ---
 
