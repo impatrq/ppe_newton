@@ -14,6 +14,10 @@
 acs712_t current_sensor;
 int _dat_direction;
 
+int _pin_clk;
+int _pin_dat;
+int _pin_rst;
+
 #define DHT_PIN 15
 #define MAX_TIMINGS 85
 
