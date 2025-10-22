@@ -9,6 +9,11 @@ Este apartado del proyecto corresponde a la rama **Grafico-De-Datos**, donde se 
   - `plot_dht.py`: programa en Python que lee el archivo de registro y genera un gráfico de las mediciones.  
   - `dht_log.txt`: archivo de ejemplo con datos reales tomados por el datalogger.
 
+- **Dailies/**  
+  Carpeta que contiene:
+  - `daily-XX.md`: Los cuatro reportes de reuniones diarias evidenciando el avance en el trabajo.
+
+
 ## Como ejecutar el programa
 
 - Primero se debe descargar la carpeta del script que contiene el programa en Python, `plot_dht.py` y se abre está carpeta dentro de Visual Studio Code
